@@ -1,0 +1,52 @@
+#logo{
+    font-family: 'Fruktur', cursive;
+}
+.textontop{
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    color: yellow;
+    font-size: 20px;
+
+}
+#lt{
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    background-color: orange;
+    
+    
+    
+}
+#lp{
+    padding-top: 20px;
+     padding-bottom: 20px;
+     background-color: orange;
+    }
+.yp{
+    background-color: orange;
+    
+}
+#map{
+    height: 300px;
+    
+}
+#pp{
+
+    background-color:pink;
+    
+    
+    
+}
+#yt{
+    padding-bottom: 30px!important;
+    
+}
+#op{
+    background-color: azure!important;
+    
+}
+#lg{
+    background-color: cornsilk;
+    
+    
+}
